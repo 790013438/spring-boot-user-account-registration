@@ -8,7 +8,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 @EnableAsync
 public class UserAccountRegistrationApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(UserAccountRegistrationApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(UserAccountRegistrationApplication.class, args);
+    }
 }
